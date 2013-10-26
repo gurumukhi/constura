@@ -1,0 +1,27 @@
+C:\Documents and Settings\205111007\Desktop\FinalUI\FinalUI\bin\Debug\FinalUI.exe
+C:\Documents and Settings\205111007\Desktop\FinalUI\FinalUI\bin\Debug\FinalUI.pdb
+C:\Documents and Settings\205111007\Desktop\FinalUI\FinalUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\205111007\Desktop\FinalUI\FinalUI\obj\x86\Debug\FinalUI.Form1.resources
+C:\Documents and Settings\205111007\Desktop\FinalUI\FinalUI\obj\x86\Debug\FinalUI.Properties.Resources.resources
+C:\Documents and Settings\205111007\Desktop\FinalUI\FinalUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\205111007\Desktop\FinalUI\FinalUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\205111007\Desktop\FinalUI\FinalUI\obj\x86\Debug\FinalUI.exe
+C:\Documents and Settings\205111007\Desktop\FinalUI\FinalUI\obj\x86\Debug\FinalUI.pdb
+I:\FinalUI\FinalUI\obj\x86\Debug\FinalUI.exe
+I:\FinalUI\FinalUI\obj\x86\Debug\FinalUI.pdb
+I:\FinalUI\FinalUI\obj\x86\Debug\FinalUI.csprojResolveAssemblyReference.cache
+I:\FinalUI\FinalUI\obj\x86\Debug\FinalUI.Form1.resources
+I:\FinalUI\FinalUI\obj\x86\Debug\FinalUI.Properties.Resources.resources
+I:\FinalUI\FinalUI\obj\x86\Debug\FinalUI.csproj.GenerateResource.Cache
+I:\FinalUI\FinalUI\bin\Debug\FinalUI.exe
+I:\FinalUI\FinalUI\bin\Debug\FinalUI.pdb
+G:\FinalUI\FinalUI\obj\x86\Debug\FinalUI.exe
+G:\FinalUI\FinalUI\obj\x86\Debug\FinalUI.pdb
+G:\FinalUI\FinalUI\bin\Debug\FinalUI.exe
+G:\FinalUI\FinalUI\bin\Debug\FinalUI.pdb
+G:\FinalUI\FinalUI\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\FinalUI\FinalUI\obj\x86\Debug\FinalUI.Form1.resources
+G:\FinalUI\FinalUI\obj\x86\Debug\FinalUI.Properties.Resources.resources
+G:\FinalUI\FinalUI\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\FinalUI\FinalUI\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\FinalUI\FinalUI\obj\x86\Debug\FinalUI.Form2.resources
